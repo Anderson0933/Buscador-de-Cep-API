@@ -1,12 +1,4 @@
-# busca-cep
 
-Desenvolvido uma API com Node.js para buscar dados de consulta de cep através da API do ViaCEP. 
-Para o front-end o React.js faz a requisão a API, e a API faz a requisição de consulta na API ViaCEP.
-
-## Pasta Client
-
-### Projeto inicializado com o Create-React-App
-Para rodar o projeto localmente será necessário a instalação do node modules.
 
 na raiz da pasta client execute no teminal:
 
