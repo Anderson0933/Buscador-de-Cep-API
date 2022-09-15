@@ -1,5 +1,4 @@
 
-- Clonar repositorio
 na raiz da pasta client execute no teminal:
 
 > npm install - instalando o node modules.
@@ -21,8 +20,6 @@ obs: npm install deve ser executado apenas no inicio.
  > nodemon index - Para rodar o servidor.
 
 
-## Desenvolvimento, dependências usadas
-
 ### Client
 * React.js
 * Axios
@@ -33,6 +30,8 @@ obs: npm install deve ser executado apenas no inicio.
 * Nodemon
 * Cors
 * Request
+
+ANDERSON CASIMIRO
 
 
 
