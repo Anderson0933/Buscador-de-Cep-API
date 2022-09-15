@@ -24,7 +24,7 @@ class Correios {
         } catch (e) {
           return reject({
             Erro: 404,
-            MsgErro: "Cep não encontrado",
+            MsgErro: "Cep não localizado",
           });
         }
       });
