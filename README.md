@@ -1,4 +1,4 @@
-## Segunda Etapa Vtrina
+## API
 na raiz da pasta client execute no teminal:
 
 > npm install - instalando o node modules.
